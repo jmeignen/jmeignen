@@ -2,7 +2,7 @@
 
 **Trained in sports and business law, now a data analyst. I measure what rules, contracts and deals actually do.**
 
-Paris, France · French and English (C2, TOEFL 111) · Python · SQL · Power BI · web scraping · [LinkedIn](https://www.linkedin.com/in/justine-meignen-165b74100/)
+Paris, France · French and English (C2, TOEFL 111) · Python · SQL · Power BI · web scraping · [LinkedIn](https://www.linkedin.com/in/justine-meignen/)
 
 I spent seven years working with rules before working with data. Two years as a legal officer at the Hauts-de-France handball league (bylaws, club disputes, disciplinary cases), then five as operations manager and in-house legal in a small company. In 2026 I trained as a data analyst (university certificate, Paris 1 Panthéon-Sorbonne).
 
