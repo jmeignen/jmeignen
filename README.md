@@ -16,7 +16,7 @@ I'm looking for data and business analyst roles in sport and entertainment (club
 
 - **[Next year's player value](https://github.com/jmeignen/prediction-valeur-joueurs)** (FR): the June 2027 Transfermarkt value of 3,014 Big 5 players, with a range. Age moves a value far more than last season's goals.
 
-- - **[Betting in France vs Ontario](https://github.com/jmeignen/paris-france-ontario)** (FR): in 2025, online operators kept about €49 per adult in France and €192 in Ontario, almost all of the gap coming from online casino.
+- **[Betting in France vs Ontario](https://github.com/jmeignen/paris-france-ontario)** (FR): in 2025, online operators kept about €49 per adult in France and €192 in Ontario, almost all of the gap coming from online casino.
 
 - **[Agent file: extend or sell?](https://github.com/jmeignen/dossier-agent-avom)** (FR, memo in EN): a Ligue 1 midfielder with one year left on his contract, priced against six comparable sales from summer 2026.
 
